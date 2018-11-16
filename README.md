@@ -7,6 +7,11 @@
 - Wine-QQ:http://yun.tzmm.com.cn/index.php/s/XRbfi6aOIjv5gwj
 - Wine-TIM:http://yun.tzmm.com.cn/index.php/s/5hJNzt2VR9aIEF2
 
+###图形桌面运行Appimage，需要设置（ubantu16.04 按照下面方法可以打开，右键 --》 run）
+  通过GNOME Files运行
+    右键选择Properties 属性
+    在弹出的窗口中选择Permissions 权限
+    勾选Allow executing file as program
 
 ### 相比与以前的版本，它有如下优点：
 
